@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="JAX-RS-TEST:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="rest-webapp-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="JAX-RS-TEST:war exploded" />
+    </root>
+  </artifact>
+</component>
